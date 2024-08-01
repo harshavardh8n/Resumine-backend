@@ -24,5 +24,9 @@ crrouter.route("/create").post(async(req,res)=>{
     console.log(text1);
 })
 
+crrouter.route("/hello").get((req,res)=>{
+    res.send("hello brother")
+})
+
 
 module.exports = {crrouter};
