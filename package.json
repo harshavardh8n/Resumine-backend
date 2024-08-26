@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.15.0",
+    "axios": "^1.7.5",
+    "cloudinary": "^2.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.4"
+  }
+}
